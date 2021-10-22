@@ -1,0 +1,9 @@
+D:\Maher\Pro\Dev apps\Repo_Privee\IdentityRepo\user.Identity.Resources\bin\Debug\netcoreapp3.1\user.Identity.Resources.deps.json
+D:\Maher\Pro\Dev apps\Repo_Privee\IdentityRepo\user.Identity.Resources\bin\Debug\netcoreapp3.1\user.Identity.Resources.dll
+D:\Maher\Pro\Dev apps\Repo_Privee\IdentityRepo\user.Identity.Resources\bin\Debug\netcoreapp3.1\user.Identity.Resources.pdb
+D:\Maher\Pro\Dev apps\Repo_Privee\IdentityRepo\user.Identity.Resources\obj\Debug\netcoreapp3.1\user.Identity.Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maher\Pro\Dev apps\Repo_Privee\IdentityRepo\user.Identity.Resources\obj\Debug\netcoreapp3.1\user.Identity.Resources.AssemblyInfoInputs.cache
+D:\Maher\Pro\Dev apps\Repo_Privee\IdentityRepo\user.Identity.Resources\obj\Debug\netcoreapp3.1\user.Identity.Resources.AssemblyInfo.cs
+D:\Maher\Pro\Dev apps\Repo_Privee\IdentityRepo\user.Identity.Resources\obj\Debug\netcoreapp3.1\user.Identity.Resources.csproj.CoreCompileInputs.cache
+D:\Maher\Pro\Dev apps\Repo_Privee\IdentityRepo\user.Identity.Resources\obj\Debug\netcoreapp3.1\user.Identity.Resources.dll
+D:\Maher\Pro\Dev apps\Repo_Privee\IdentityRepo\user.Identity.Resources\obj\Debug\netcoreapp3.1\user.Identity.Resources.pdb

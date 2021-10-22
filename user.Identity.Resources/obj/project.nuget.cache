@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+r1hCZSWLk2bqbgydUx0+oUz8juhDgQjGhu929ob/3caDA/A0JmscyvtPfvdc4cta/Qp49dZFzzh7Vir4Tryng==",
+  "success": true,
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Repo_Privee\\IdentityRepo\\user.Identity.Resources\\user.Identity.Resources.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maher\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
